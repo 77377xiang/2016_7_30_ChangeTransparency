@@ -1,0 +1,2 @@
+# 2016_7_30_ChangeTransparency
+通过拖动块来改变图片的透明度
